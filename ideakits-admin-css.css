@@ -1,0 +1,35 @@
+/*WP*/
+/*Remove wp footer*/
+#wpfooter {
+    display: none !important;
+}
+
+/*Amelia*/
+/*Remove Logo*/
+.am-logo {
+    display: none !important;
+}
+/*Left aling title*/
+.am-page-header h1.am-page-title {
+    border-left: initial !important;
+    padding-left: initial !important;
+}
+/*Remove Amelia Footer Banner and help*/
+.am-amelia-banner, .am-help-button {
+    display: none !important;
+}
+
+/*Newsletter*/
+/*Remove Newsletter premium notice*/
+.tnp-licence-button {
+    display: none;
+}
+/*Remove Newsletter help button*/
+
+#tnp-heading .tnp-title-help {
+    display: none !important;
+}
+/*Remove Newsletter help footer*/
+#tnp-footer {
+    display: none;
+}
