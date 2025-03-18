@@ -33,3 +33,7 @@
 #tnp-footer {
     display: none;
 }
+/*Remove Newsletter addon menu option*/
+.toplevel_page_newsletter_main_index ul.wp-submenu li:nth-child(9) {
+    display: none;
+}
