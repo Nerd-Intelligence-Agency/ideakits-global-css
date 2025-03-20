@@ -37,3 +37,8 @@
 .toplevel_page_newsletter_main_index ul.wp-submenu li:nth-child(9) {
     display: none;
 }
+/*Uncanny Automator*/
+/*Remove Upgrade submenu*/
+.uap-sidebar-upgrade-pro {
+    display: none;
+}
